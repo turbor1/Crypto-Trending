@@ -82,4 +82,4 @@
 
 - for any questions write
 
-- 📈 contact: t.me\gpt_dex
+- 📈 [contacts: t.me/gpt_dex](t.me/gpt_dex)
