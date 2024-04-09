@@ -82,7 +82,6 @@
 
 - for any questions write
 
-- 📈 contacts: t.me/gpt_dex
+- 📈 contacts: https://t.me/gpt_dex
 
-  ![Uploading photo_2024-04-10_01-08-12.jpg…]()
 
