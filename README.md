@@ -32,7 +32,7 @@
 - **🟢🔥Top 1-3:** 
 - 5M+ Vol
 - **💰Price:**
-- 24h 6k$
+- 24h 5k$
 - (payment accepted 50% before the trend starts and 50% after the trend starts at 4am UTC)
 - **🟢🔥Top 4-10:**
 - 1.5M+ Vol
